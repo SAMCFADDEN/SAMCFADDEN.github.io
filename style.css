@@ -5,6 +5,7 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 1px;
 	padding: 1px;
+	height:100%;
 }
 
 header {
@@ -84,7 +85,7 @@ footer {
 	display: flex;
 	justify-content: center;
 	left: 0;
-	hieght: 5%:
+	height: 5%:
 	padding: 1rem;
 	position: absolute;
 	right: 0;
