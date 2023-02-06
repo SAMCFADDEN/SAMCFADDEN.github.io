@@ -84,7 +84,7 @@ ul {
 }
 
 
-footer {
+.footer {
 	background-color: lightblue;
 	bottom: 0;
 	display: flex;
