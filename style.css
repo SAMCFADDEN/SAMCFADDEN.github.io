@@ -1,0 +1,83 @@
+body {
+	background-image: url("https://www.coranet.com/wp-content/uploads/2019/03/new-york-city-skyline.jpg");
+	background-size: cover;
+    background-attachment: fixed; 
+	font-family: Arial, sans-serif;
+	margin: 1px;
+	padding: 1px;
+}
+
+header {
+	background-color: grey;
+	color: tan;
+	display: flex;
+	justify-content: space-evenly;	
+	padding: 1rem;
+}
+
+header {
+	color: white;
+
+}
+
+
+.summary {
+	text-align: center;
+    padding: 5%; 
+ 
+}
+
+.experience {
+  display: center;
+  padding: 9%:
+   display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-bottom: 10%:
+  
+  
+  
+}
+
+.experience-list {
+  text-align: center;
+  list-style: none;
+  margin-bottom: 5px;
+  
+}
+
+.experience-item  {
+
+     margin-bottom: 20%;
+
+}
+
+ul {
+  list-style-type: square;
+  list-style-position: outside;
+
+  
+}
+
+.experience-item img {
+	margin-top: 5%;
+	max-width: 225px;
+    max-height: 10%;
+   transition: all 1s ease-out
+     margin-bottom: 5%;
+  
+  
+}
+
+
+footer {
+	background-color: lightblue;
+	bottom: auto;
+	display: flex;
+	justify-content: center;
+	left: 0;
+	padding: 1rem;
+	position: absolute;
+	right: 0;
+	text-align: center;
+}
