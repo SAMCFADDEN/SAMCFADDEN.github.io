@@ -80,10 +80,11 @@ ul {
 
 footer {
 	background-color: lightblue;
-	bottom: auto;
+	bottom: 0;
 	display: flex;
 	justify-content: center;
 	left: 0;
+	hieght: 5%:
 	padding: 1rem;
 	position: absolute;
 	right: 0;
