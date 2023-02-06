@@ -15,11 +15,7 @@ header {
 	justify-content: space-evenly;	
 	padding: 1rem;
 }
-
-header {
-	color: white;
-
-}
+ 
 
 
 .summary {
@@ -74,8 +70,6 @@ ul {
     max-height: 10%;
    transition: all 1s ease-out
      margin-bottom: 5%;
-  
-  
 }
 
 
