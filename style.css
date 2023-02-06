@@ -3,11 +3,8 @@ body {
 	background-size: cover;
     background-attachment: fixed; 
 	font-family: Arial, sans-serif;
-	position: relative;
-	overflow: auto;
 	margin: 1px;
 	padding: 1px;
-	height:100%;
 }
 
 header {
@@ -17,7 +14,7 @@ header {
 	justify-content: space-evenly;	
 	padding: 1rem;
 }
- 
+
 
 
 .summary {
@@ -71,16 +68,20 @@ ul {
 	max-width: 225px;
     max-height: 10%;
    transition: all 1s ease-out
-     margin-bottom: 5%;
+  
+  
 }
 
 
 footer {
 	background-color: lightblue;
-	justify-content: center;
-	height: 5%;
 	bottom: 0;
+	display: flex;
+	justify-content: center;
+	left: 0;
+	padding: 1rem;
 	position: relative;
+	right: 0;
 	text-align: center;
-	margin-bottom:0px;
+      
 }
