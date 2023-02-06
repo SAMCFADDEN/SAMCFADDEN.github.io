@@ -15,6 +15,10 @@ header {
 	padding: 1rem;
 }
 
+header {
+	color: white;
+
+}
 
 
 .summary {
@@ -68,6 +72,7 @@ ul {
 	max-width: 225px;
     max-height: 10%;
    transition: all 1s ease-out
+     margin-bottom: 5%;
   
   
 }
@@ -79,9 +84,9 @@ footer {
 	display: flex;
 	justify-content: center;
 	left: 0;
+	height: 10%:
 	padding: 1rem;
-	position: relative;
+	position: absolute;
 	right: 0;
 	text-align: center;
-      
 }
